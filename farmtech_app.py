@@ -1,7 +1,7 @@
 
 """
 FarmTech Solutions - Agricultura Digital (Python CLI)
-Culturas: Café (área circular) e soja-de-açúcar (área retangular)
+Culturas: Café (área circular) e soja (área retangular)
 
 Requisitos atendidos:
 - Vetores (listas) para armazenar dados
