@@ -10,8 +10,8 @@ suppressPackageStartupMessages({
   library(readr)
 })
 
-# Caminho do arquivo CSV
-csv_path <- "../exportcsv1509.csv"
+# Caminho do arquivo CSV (alterar)
+csv_path <- "../exportcsv15092.csv" 
 
 if (!file.exists(csv_path)) {
   stop(paste("Arquivo não encontrado:", csv_path))
